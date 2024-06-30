@@ -1,0 +1,97 @@
+
+Job Description
+Position Title--->Senior IOS Developer
+Preferred Experience---> 4-6 years
+Budge---> 100-130 K/Year USD
+client---> https://aventior.com/
+Job Type---> Full Time (Direct Hire)
+Job Location--->Onsite, East Coast Of The United States is shared by the client but candidate should be ready to relocate.
+Visa---> GC, USC
+
+Required Skills:
+1. Proficiency in Swift:
+● Strong understanding of Swift programming language.
+● Familiarity with Swift 5 and its features.
+
+2. iOS Frameworks:
+● Experience with iOS frameworks such as UIKit, CoreData, CoreAnimation,Core Location, and others.
+● Knowledge of new frameworks introduced in recent iOS versions.
+
+3. UI/UX Design Principles:
+● Understanding of design principles, interface guidelines, and best practices for iOS.
+● Ability to create visually appealing and user-friendly interfaces.
+
+4. Networking:
+● Knowledge of networking protocols and experience with RESTful APIs to connect iOS applications to backend services.
+● Familiarity with networking libraries like Alamofire.
+
+5. Concurrency and multithreading:
+● Understanding of Grand Central Dispatch (GCD) and operation queues for managing concurrency and multithreading in iOS apps.
+
+6. Core Data:
+● Experience with Core Data for data persistence and management.
+● Knowledge of other data storage options like UserDefaults, Keychain, and FileManager.
+
+7. Testing:
+● Proficiency in writing unit tests, UI tests, and automated tests using the XCTest framework.
+● Knowledge of test-driven development (TDD) practices.
+
+8. Version Control:
+● Experience with version control systems, particularly Git.
+● Understanding of branching, merging, and pull request workflows.
+
+9. Performance Optimization:
+● Ability to profile and optimize applications for performance, memory usage, and battery consumption.
+● Familiarity with instruments and other debugging tools.
+
+10. Third-Party Libraries:
+● Experience with integrating third-party libraries and APIs using CocoaPods, Carthage, or Swift Package Manager.
+
+11. Agile Methodologies:
+● Experience working in Agile/Scrum development environments.
+● Ability to participate in sprint planning, daily stand-ups, and retrospectives.
+
+12. App Store Deployment:
+● Knowledge of the app submission process, provisioning profiles, and certificates required for deploying apps to the App Store.
+● Familiarity with TestFlight for beta testing.
+
+Responsibilities:
+1. App Development:
+● Design, develop, and maintain native iOS applications using Swift.
+● Collaborate with cross-functional teams to define, design, and ship new features.
+
+2. Code Quality:
+● Write clean, maintainable, and well-documented code.
+● Conduct code reviews and ensure adherence to best practices and coding standards.
+
+3. UI/UX Implementation:
+● Implement user interfaces based on design specifications.
+● Ensure that the application provides a seamless user experience across different iOS devices and versions.
+
+4. Debugging and Troubleshooting:
+● Identify and resolve application issues and bugs.
+● Use debugging tools and techniques to analyze crash reports and improve app stability.
+
+5. Performance Optimization:
+● Optimize applications for performance, memory usage, and battery efficiency.
+● Continuously monitor and improve application performance.
+
+6. Collaboration:
+● Work closely with product managers, designers, and backend developers to deliver high-quality products.
+● Participate in code reviews, pair programming, and collaborative problem-solving.
+
+7. Testing:
+● Write and maintain unit tests, UI tests, and integration tests.
+● Ensure high test coverage and follow test-driven development (TDD) practices.
+
+8. Documentation:
+● Create and maintain technical documentation, including API documentation and user guides.
+● Document code changes and system architecture.
+
+9. Continuous Learning:
+● Stay updated with the latest developments in the iOS ecosystem.
+● Continuously learn new tools, libraries, and best practices to improve development efficiency.
+
+10. App Store Management:
+● Manage the app submission process, including creating and managing provisioning files and certificates.
+● Handle app updates and monitor app reviews and user feedback.
